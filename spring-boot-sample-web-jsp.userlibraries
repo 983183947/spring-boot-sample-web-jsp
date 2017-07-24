@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: javax.validation:validation-api:1.1.0.Final">
+    <archive path="F:/MavenRepository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.0.0">
+    <archive path="F:/MavenRepository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar" />
+  </library>
+  <library name="Maven: aopalliance:aopalliance:1.0">
+    <archive path="F:/MavenRepository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="F:/MavenRepository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="F:/MavenRepository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-library:1.3">
+    <archive path="F:/MavenRepository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.13">
+    <archive path="F:/MavenRepository/org/yaml/snakeyaml/1.13/snakeyaml-1.13.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-validator:5.0.3.Final">
+    <archive path="F:/MavenRepository/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.1.1.GA">
+    <archive path="F:/MavenRepository/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.jar" />
+  </library>
+  <library name="Maven: junit:junit:4.11">
+    <archive path="F:/MavenRepository/junit/junit/4.11/junit-4.11.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-core:1.9.5">
+    <archive path="F:/MavenRepository/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:1.0">
+    <archive path="F:/MavenRepository/org/objenesis/objenesis/1.0/objenesis-1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-web:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-web/1.1.12.RELEASE/spring-boot-starter-web-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter/1.1.12.RELEASE/spring-boot-starter-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot/1.1.12.RELEASE/spring-boot-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-autoconfigure/1.1.12.RELEASE/spring-boot-autoconfigure-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-logging/1.1.12.RELEASE/spring-boot-starter-logging-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.1.3">
+    <archive path="F:/MavenRepository/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.1.3">
+    <archive path="F:/MavenRepository/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.3.5">
+    <archive path="F:/MavenRepository/com/fasterxml/jackson/core/jackson-databind/2.3.5/jackson-databind-2.3.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.3.5">
+    <archive path="F:/MavenRepository/com/fasterxml/jackson/core/jackson-annotations/2.3.5/jackson-annotations-2.3.5.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.3.5">
+    <archive path="F:/MavenRepository/com/fasterxml/jackson/core/jackson-core/2.3.5/jackson-core-2.3.5.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-core/4.0.9.RELEASE/spring-core-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-web/4.0.9.RELEASE/spring-web-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-aop/4.0.9.RELEASE/spring-aop-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-beans/4.0.9.RELEASE/spring-beans-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-context/4.0.9.RELEASE/spring-context-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-webmvc/4.0.9.RELEASE/spring-webmvc-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-expression/4.0.9.RELEASE/spring-expression-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-tomcat/1.1.12.RELEASE/spring-boot-starter-tomcat-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/embed/tomcat-embed-core/7.0.59/tomcat-embed-core-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-el:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/embed/tomcat-embed-el/7.0.59/tomcat-embed-el-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-logging-juli:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.59/tomcat-embed-logging-juli-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/embed/tomcat-embed-websocket/7.0.59/tomcat-embed-websocket-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/embed/tomcat-embed-jasper/7.0.59/tomcat-embed-jasper-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.eclipse.jdt.core.compiler:ecj:4.4">
+    <archive path="F:/MavenRepository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-test:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-test/1.1.12.RELEASE/spring-boot-starter-test-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-test/4.0.9.RELEASE/spring-test-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-data-jpa/1.1.12.RELEASE/spring-boot-starter-data-jpa-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-aop/1.1.12.RELEASE/spring-boot-starter-aop-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjrt:1.8.5">
+    <archive path="F:/MavenRepository/org/aspectj/aspectjrt/1.8.5/aspectjrt-1.8.5.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.8.5">
+    <archive path="F:/MavenRepository/org/aspectj/aspectjweaver/1.8.5/aspectjweaver-1.8.5.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-jdbc:1.1.12.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/boot/spring-boot-starter-jdbc/1.1.12.RELEASE/spring-boot-starter-jdbc-1.1.12.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-jdbc/4.0.9.RELEASE/spring-jdbc-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat:tomcat-jdbc:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/tomcat-jdbc/7.0.59/tomcat-jdbc-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat:tomcat-juli:7.0.59">
+    <archive path="F:/MavenRepository/org/apache/tomcat/tomcat-juli/7.0.59/tomcat-juli-7.0.59.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-tx/4.0.9.RELEASE/spring-tx-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-entitymanager:4.3.8.Final">
+    <archive path="F:/MavenRepository/org/hibernate/hibernate-entitymanager/4.3.8.Final/hibernate-entitymanager-4.3.8.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1">
+    <archive path="F:/MavenRepository/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar" />
+  </library>
+  <library name="Maven: org.hibernate:hibernate-core:4.3.8.Final">
+    <archive path="F:/MavenRepository/org/hibernate/hibernate-core/4.3.8.Final/hibernate-core-4.3.8.Final.jar" />
+  </library>
+  <library name="Maven: antlr:antlr:2.7.7">
+    <archive path="F:/MavenRepository/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+  </library>
+  <library name="Maven: org.jboss:jandex:1.1.0.Final">
+    <archive path="F:/MavenRepository/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar" />
+  </library>
+  <library name="Maven: dom4j:dom4j:1.6.1">
+    <archive path="F:/MavenRepository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+  </library>
+  <library name="Maven: xml-apis:xml-apis:1.0.b2">
+    <archive path="F:/MavenRepository/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.5.Final">
+    <archive path="F:/MavenRepository/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar" />
+  </library>
+  <library name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final">
+    <archive path="F:/MavenRepository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+  </library>
+  <library name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final">
+    <archive path="F:/MavenRepository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+  </library>
+  <library name="Maven: org.javassist:javassist:3.18.1-GA">
+    <archive path="F:/MavenRepository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-orm/4.0.9.RELEASE/spring-orm-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-jpa:1.6.5.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/data/spring-data-jpa/1.6.5.RELEASE/spring-data-jpa-1.6.5.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-commons:1.8.5.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/data/spring-data-commons/1.8.5.RELEASE/spring-data-commons-1.8.5.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aspects:4.0.9.RELEASE">
+    <archive path="F:/MavenRepository/org/springframework/spring-aspects/4.0.9.RELEASE/spring-aspects-4.0.9.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.hsqldb:hsqldb:2.3.2">
+    <archive path="F:/MavenRepository/org/hsqldb/hsqldb/2.3.2/hsqldb-2.3.2.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.42">
+    <archive path="F:/MavenRepository/mysql/mysql-connector-java/5.1.42/mysql-connector-java-5.1.42.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.12">
+    <archive path="F:/MavenRepository/log4j/log4j/1.2.12/log4j-1.2.12.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jul-to-slf4j:1.6.6">
+    <archive path="F:/MavenRepository/org/slf4j/jul-to-slf4j/1.6.6/jul-to-slf4j-1.6.6.jar" />
+  </library>
+  <library name="Maven: org.slf4j:log4j-over-slf4j:1.6.6">
+    <archive path="F:/MavenRepository/org/slf4j/log4j-over-slf4j/1.6.6/log4j-over-slf4j-1.6.6.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jcl-over-slf4j:1.6.6">
+    <archive path="F:/MavenRepository/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.6.6">
+    <archive path="F:/MavenRepository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.6.6">
+    <archive path="F:/MavenRepository/org/slf4j/slf4j-log4j12/1.6.6/slf4j-log4j12-1.6.6.jar" />
+  </library>
+</eclipse-userlibraries>
+
